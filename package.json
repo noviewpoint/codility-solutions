@@ -1,0 +1,23 @@
+{
+  "name": "codility-solutions",
+  "version": "1.0.0",
+  "description": "Solutions for Codility training tasks",
+  "main": "1.1 BinaryGap.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "format": "prettier --write \"*.js\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/noviewpoint/codility-solutions.git"
+  },
+  "author": "David Brvar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/noviewpoint/codility-solutions/issues"
+  },
+  "homepage": "https://github.com/noviewpoint/codility-solutions#readme",
+  "devDependencies": {
+    "prettier": "^2.5.1"
+  }
+}
