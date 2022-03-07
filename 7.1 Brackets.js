@@ -1,5 +1,7 @@
 function solution(S) {
   const openingTags = {
+    "[": "]",
+    "{": "}",
     "(": ")",
   };
 
