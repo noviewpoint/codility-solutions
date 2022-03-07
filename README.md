@@ -1,3 +1,3 @@
 # codility-solutions
 
-Solutions to Codility training tasks
+Solutions for Codility training tasks
